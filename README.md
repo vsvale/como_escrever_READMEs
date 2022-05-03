@@ -9,7 +9,7 @@ Walter Latimer
 ## Learning Plataform
 [Udacity](https://www.udacity.com/)
 
-## What have i done?
+## What I have done?
 - Always documment
 - Learn basics in Markdown
 - Transcript HTML to Markdown
